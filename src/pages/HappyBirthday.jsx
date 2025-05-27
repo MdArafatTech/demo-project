@@ -394,7 +394,7 @@ const HappyBirthday = () => {
     
     autoPlay
     loop
-    muted
+   
     className="rounded-xl shadow-lg max-w-full h-auto"
   />
 </div>
